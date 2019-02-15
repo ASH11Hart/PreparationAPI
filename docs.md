@@ -2,4 +2,4 @@
 
 This documentation describes the new automated dog **Marley**.
 
-Marley can come when called by using the command Andale, bark on command, and roll over to have his tummy rubbed.
+Marley can come when called by using the command Andale, bark on command with the command Bark, and roll over to have his tummy rubbed.
